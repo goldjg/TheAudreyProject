@@ -1,9 +1,9 @@
 # The Audrey Project
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://greatcharacters.miraheze.org/wiki/File:Audreyiifeedme.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://greatcharacters.miraheze.org/wiki/File:Audreyiifeedme.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://greatcharacters.miraheze.org/wiki/File:Audreyiifeedme.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://static.miraheze.org/greatcharacterswiki/5/58/Audreyiifeedme.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://static.miraheze.org/greatcharacterswiki/5/58/Audreyiifeedme.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://static.miraheze.org/greatcharacterswiki/5/58/Audreyiifeedme.jpg">
 </picture>
 
 ## What is this all about?
