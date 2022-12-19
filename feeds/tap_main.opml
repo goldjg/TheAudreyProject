@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>The Audrey Project - Main Feeds List</title>
+    </head>
+    <body>
+        <outline text="Security" title="Security">
+            <outline type="rss" text="Graham Cluley" title="Graham Cluley" xmlUrl="http://feeds.feedburner.com/GrahamCluleysBlog" htmlUrl="https://grahamcluley.com"/>
+            <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com"/>
+            <outline type="rss" text="Scott Helme" title="Scott Helme" xmlUrl="https://scotthelme.co.uk/feed/" htmlUrl="https://scotthelme.co.uk/"/>
+            <outline type="rss" text="Darknet" title="Darknet" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
+            <outline type="rss" text="SANS Internet Storm Center, InfoCON: green" title="SANS Internet Storm Center, InfoCON: green" xmlUrl="http://iscxml.sans.org/rssfeed.xml" htmlUrl="https://isc.sans.edu"/>
+            <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss_simple.asp?f_n=644&amp;f_ln=Attacks/Breaches" htmlUrl="https://www.darkreading.com"/>
+            <outline type="rss" text="Blog - NetSPI" title="Blog - NetSPI" xmlUrl="http://www.netspi.com/blog/feed/" htmlUrl="https://www.netspi.com/blog/"/>
+            <outline type="rss" text="Microsoft Security Response Center" title="Microsoft Security Response Center" xmlUrl="http://blogs.technet.com/msrc/rss.xml" htmlUrl="https://msrc-blog.microsoft.com"/>
+            <outline type="rss" text="Trend Micro Research, News and Perspectives" title="Trend Micro Research, News and Perspectives" xmlUrl="http://feeds.trendmicro.com/TrendMicroSimplySecurity" htmlUrl="http://feed.informer.com/digests/G5HRN3DTV4/feeder"/>
+            <outline type="rss" text="Troy Hunt's Blog" title="Troy Hunt's Blog" xmlUrl="http://feeds.feedburner.com/TroyHunt" htmlUrl="https://www.troyhunt.com/"/>
+            <outline type="rss" text="Google Online Security Blog" title="Google Online Security Blog" xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml" htmlUrl="http://security.googleblog.com/"/>
+            <outline type="rss" text="Packet Storm Security" title="Packet Storm Security" xmlUrl="http://packetstormsecurity.org/headlines.xml" htmlUrl="https://packetstormsecurity.com/"/>
+            <outline type="rss" text="NCSC Guidance Feed" title="NCSC Guidance Feed" xmlUrl="https://www.ncsc.gov.uk/feeds/guidance.xml" htmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/guidance-rss-feed.xml"/>
+            <outline type="rss" text="Naked Security" title="Naked Security" xmlUrl="http://nakedsecurity.sophos.com/feed/" htmlUrl="https://nakedsecurity.sophos.com"/>
+            <outline type="rss" text="NCSC Blog Feed" title="NCSC Blog Feed" xmlUrl="https://www.ncsc.gov.uk/blogs-feed.xml" htmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/blog-post-rss-feed.xml"/>
+            <outline type="rss" text="Posts By SpecterOps Team Members - Medium" title="Posts By SpecterOps Team Members - Medium" xmlUrl="https://posts.specterops.io/feed" htmlUrl="https://posts.specterops.io?source=rss----f05f8696e3cc---4"/>
+            <outline type="rss" text="The Hacker News | #1 Trusted Cybersecurity News Site" title="The Hacker News | #1 Trusted Cybersecurity News Site" xmlUrl="http://www.blogger.com/feeds/4802841478634147276/posts/default" htmlUrl="http://thehackernews.com/"/>
+            <outline type="rss" text="NCSC Report Feed" title="NCSC Report Feed" xmlUrl="https://www.ncsc.gov.uk/feeds/reports.xml" htmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml"/>
+            <outline type="rss" text="Project Zero" title="Project Zero" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
+            <outline type="rss" text="The Register – Security" title="The Register – Security" xmlUrl="http://www.theregister.co.uk/security/headlines.atom" htmlUrl="https://www.theregister.com/security/"/>
+            <outline type="rss" text="Have I Been Pwned latest breaches" title="Have I Been Pwned latest breaches" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/"/>
+            <outline type="rss" text="Unit 42" title="Unit 42" xmlUrl="http://feeds.feedburner.com/Unit42" htmlUrl="https://unit42.paloaltonetworks.com"/>
+            <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss/all.xml" htmlUrl="https://www.darkreading.com"/>
+        </outline>
+        <outline text="Tech" title="Tech">
+            <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.com/blog/all.atom" htmlUrl="https://github.blog/"/>
+            <outline type="rss" text="Scott Hanselman's Blog" title="Scott Hanselman's Blog" xmlUrl="http://feeds.feedburner.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/"/>
+            <outline type="rss" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/headlines.atom" htmlUrl="https://www.theregister.com/"/>
+            <outline type="rss" text="CirriusTech | Serious About Tech" title="CirriusTech | Serious About Tech" xmlUrl="https://www.cirriustech.co.uk/index.xml" htmlUrl="https://www.cirriustech.co.uk/"/>
+            <outline type="rss" text="The Official Google Blog" title="The Official Google Blog" xmlUrl="http://googleblog.blogspot.com/feeds/posts/default" htmlUrl="https://blog.google/"/>
+            <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+        </outline>
+        <outline text="Cloud" title="Cloud">
+            <outline type="rss" text="Google Cloud Platform Blog" title="Google Cloud Platform Blog" xmlUrl="http://googleappengine.blogspot.com/atom.xml" htmlUrl="http://cloudplatform.googleblog.com/"/>
+            <outline type="rss" text="Thomas Thornton" title="Thomas Thornton" xmlUrl="https://thomasthornton.cloud/feed/" htmlUrl="https://thomasthornton.cloud"/>
+            <outline type="rss" text="Docker" title="Docker" xmlUrl="http://blog.docker.io/feed/" htmlUrl="https://www.docker.com"/>
+            <outline type="rss" text="Microsoft Azure Blog" title="Microsoft Azure Blog" xmlUrl="http://azure.microsoft.com/blog/feed/" htmlUrl="http://azure.microsoft.com/blog/"/>
+            <outline type="rss" text="Azure Status" title="Azure Status" xmlUrl="http://azure.microsoft.com/en-us/status/feed/" htmlUrl="https://status.azure.com/en-us/status/"/>
+            <outline type="rss" text="Azure service updates" title="Azure service updates" xmlUrl="http://azure.microsoft.com/en-us/updates/feed/" htmlUrl="http://azure.microsoft.com/en-us/updates/"/>
+            <outline type="rss" text="The Cloudflare Blog" title="The Cloudflare Blog" xmlUrl="http://blog.cloudflare.com/rss.xml" htmlUrl="https://blog.cloudflare.com/"/>
+            <outline type="rss" text="Azure Tips and Tricks" title="Azure Tips and Tricks" xmlUrl="https://microsoft.github.io/AzureTipsAndTricks/rss.xml" htmlUrl="https://microsoft.github.io/AzureTipsAndTricks"/>
+            <outline type="rss" text="Pixel Robots." title="Pixel Robots." xmlUrl="https://pixelrobots.co.uk/feed/" htmlUrl="https://pixelrobots.co.uk/"/>
+            <outline type="rss" text="My Feed Title" title="My Feed Title" xmlUrl="http://azurestack.tips/en/blog.rss" htmlUrl="https://azurestack.tips/en"/>
+            <outline type="rss" text="Azure Greg" title="Azure Greg" xmlUrl="http://gregorsuttie.com/feed/" htmlUrl="https://gregorsuttie.com"/>
+        </outline>
+    </body>
+</opml>
