@@ -1,6 +1,10 @@
 # The Audrey Project
 
-![](https://greatcharacters.miraheze.org/wiki/File:Audreyiifeedme.jpg)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://greatcharacters.miraheze.org/wiki/File:Audreyiifeedme.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://greatcharacters.miraheze.org/wiki/File:Audreyiifeedme.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://greatcharacters.miraheze.org/wiki/File:Audreyiifeedme.jpg">
+</picture>
 
 ## What is this all about?
 
@@ -9,6 +13,8 @@ This project is intended as an open source, crowdsourced list of information sou
 ## What format will this be in?
 
 At least initially, this project will use an [OPML](https://en.wikipedia.org/wiki/Opml) file which can be easily imported into RSS feed readers such as [Feedly](https://www.feedly.com) and as such, they must be RSS feeds.
+
+The **main** file is [here](/feeds/tap_main.opml)
 
 There is scope to also document in Markdown in addition to in the OPML file, or where a source doesnt support RSS, instead of the OPML file.
 
