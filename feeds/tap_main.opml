@@ -29,6 +29,7 @@
             <outline type="rss" text="Have I Been Pwned latest breaches" title="Have I Been Pwned latest breaches" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/"/>
             <outline type="rss" text="Unit 42" title="Unit 42" xmlUrl="http://feeds.feedburner.com/Unit42" htmlUrl="https://unit42.paloaltonetworks.com"/>
             <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss/all.xml" htmlUrl="https://www.darkreading.com"/>
+            <outline type="rss" text="Rootsecdev" title="Rootsecdev" xmlUrl="https://rootsecdev.medium.com/feed" htmlUrl="https://rootsecdev.medium.com"/>           
         </outline>
         <outline text="Tech" title="Tech">
             <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.com/blog/all.atom" htmlUrl="https://github.blog/"/>
