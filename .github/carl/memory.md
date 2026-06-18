@@ -6,20 +6,18 @@ single task. Update it only when a stable fact, decision, invariant, or
 unresolved question should carry forward.
 
 ## Project purpose
-cARL (Cognitive Agent Runtime Layer) is a reusable governance and
-instruction layer for GitHub Copilot coding agents. It provides modular
-instruction packs, durable memory artefacts, and cARLv2 cognition
-governance for consistent, secure, maintainable, and governed
-AI-assisted development.
+The Audrey Project is an open source, crowdsourced set of technology,
+cloud, and security information sources. The canonical project data is
+maintained in OPML format for use in RSS feed readers.
 
 ## Non-goals
 <!-- Populate with explicitly out-of-scope outcomes to prevent scope creep. -->
 
 ## Architecture summary
-`.github/copilot-instructions.md` is the root operating model.
-`.github/instructions/` contains modular single-concern instruction
-packs. `.github/carl/` contains cARLv2 governance artefacts and
-templates, not instruction-pack logic.
+`feeds/tap_main.opml` is the primary repository data file.
+`README.MD` documents project intent and contribution context.
+`.github/` contains cARL governance artefacts and Copilot instruction
+packs for agent behaviour and workflow discipline.
 
 ## Core invariants
 - Instruction packs should remain modular and focused on a single
@@ -64,4 +62,4 @@ the source of truth across model fallback.
 <!-- Populate with unresolved questions that should persist into future work. -->
 
 ## Last updated
-2026-06-17 by cARL bootstrap
+2026-06-18 by @copilot
